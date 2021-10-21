@@ -5,6 +5,7 @@ import { firestoreConnect } from 'react-redux-firebase'
 import { Redirect, Link } from 'react-router-dom'
 import moment from 'moment'
 
+
 // Components
 import ProjectTask from '../tasks/ProjectTask'
 import RecentUpdates from '../tasks/RecentUpdates'
